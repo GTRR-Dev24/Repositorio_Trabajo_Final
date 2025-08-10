@@ -1,2 +1,2 @@
 # Repositorio_Trabajo_Final
-Contiene el código fuente de la aplicación, el informe final en cuyo contenido esta el manual de usuario, y el video donde se muestra el funcionamiento de la aplicación
+Contiene: 1) código fuente de la aplicación (app), 2) informe final en cuyo contenido esta el manual técnico y de usuario, 3) video donde se muestra el funcionamiento y uso de la aplicación
